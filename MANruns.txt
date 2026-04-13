@@ -1,0 +1,218 @@
+
+
+
+__________NEW RUN: SOON__________
+Your wallet: 100
+Your bet: 10.n
+_________________________
+
+Roll = Odd.
+Guess = cho.
+
+You have LOST! You lose 10 mon.
+The House takes 2.0.
+You walk away with 88.0!
+
+_________________________
+
+__________END RUN: SOON__________
+Your wallet: 88.0
+
+
+
+
+__________NEW RUN: MYSTIQUE__________
+Your wallet: 100
+Your bet: 10.n
+_________________________
+
+Roll = Odd.
+Guess = han.
+
+You have WON! You take 20 mon.
+The House takes 2.0.
+You walk away with 118.0!
+
+_________________________
+
+__________END RUN: MYSTIQUE__________
+Your wallet: 118.0
+
+
+
+
+__________NEW RUN: SOON__________
+Your wallet: 100
+Your bet: 10.n
+_________________________
+
+Roll = Odd.
+Guess = cho.
+
+You have LOST! You lose 10 mon.
+The House takes 2.0.
+You walk away with 88.0!
+
+_________________________
+
+__________END RUN: SOON__________
+Your wallet: 88.0
+
+
+_________________________
+
+Roll = Even.
+Guess = cho.
+
+You have WON! You take 20 mon.
+The House takes 2.0.
+You walk away with 118.0!
+
+_________________________
+
+__________END RUN: SOON__________
+__________11 17 AM,  1 July 2024__________
+Your wallet: 118.0
+
+
+_________________________
+
+Roll = Even.
+Guess = cho.
+
+You have WON! You take 8 mon.
+The House takes 0.8.
+You walk away with 47.2!
+
+_________________________
+
+__________END RUN: LIGHT-W8P8R5S2__________
+__________11 35 AM,  1 July 2024__________
+Your wallet: 47.2
+
+
+_________________________
+
+Roll = Even.
+Guess = cho.
+
+You have WON! You take 8 mon.
+The House takes 0.8.
+You walk away with 47.2!
+
+_________________________
+
+__________END RUN: LIGHT-P1A0K7Q8__________
+__________11 35 AM,  1 July 2024__________
+Your wallet: 47.2
+
+
+
+
+__________NEW RUN: LIGHT-H6Q8P9N6__________
+__________01 26 PM,  8 March 2025__________
+Your wallet: 2000
+Your bet: 200.n
+_________________________
+
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 400 mon.
+The House takes 40.0.
+You walk away with 2360.0!
+
+_________________________
+
+__________END RUN: LIGHT-H6Q8P9N6__________
+__________01 26 PM,  8 March 2025__________
+Your wallet: 2360.0
+
+
+
+
+__________NEW RUN: MYSTIQUE-M1I4Q5Z8__________
+__________01 26 PM,  8 March 2025__________
+Your wallet: 2000
+Your bet: 200.n
+_________________________
+
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 200 mon.
+The House takes 40.0.
+You walk away with 1760.0!
+
+_________________________
+
+__________END RUN: MYSTIQUE-M1I4Q5Z8__________
+__________01 26 PM,  8 March 2025__________
+Your wallet: 1760.0
+
+
+
+
+__________NEW RUN: LIGHT-A2Z1X5A8__________
+__________06 48 PM, 13 April 2026__________
+Your wallet: 1000
+Your bet: 50.n
+_________________________
+
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 10.0.
+You walk away with 1090.0!
+
+_________________________
+
+__________END RUN: LIGHT-A2Z1X5A8__________
+__________06 48 PM, 13 April 2026__________
+Your wallet: 1090.0
+
+__________LIGHT-A2Z1X5A8__________
+__________06 48 PM, 13 April 2026__________
+BET-CODE: LIGHT-A2Z1X5A8.
+MODE: MANUAL.
+START WALLET: 1000.
+END WALLET: 1090.0.
+CHO COUNT: 1.
+HAN COUNT: 0.
+WINS: 1.
+LOSES: 0.
+
+
+
+
+__________NEW RUN: SOON-B2V8V7D8__________
+__________06 48 PM, 13 April 2026__________
+Your wallet: 1000
+Your bet: 50.n
+_________________________
+
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 10.0.
+You walk away with 1090.0!
+
+_________________________
+
+__________END RUN: SOON-B2V8V7D8__________
+__________06 48 PM, 13 April 2026__________
+Your wallet: 1090.0
+
+__________SOON-B2V8V7D8__________
+__________06 48 PM, 13 April 2026__________
+BET-CODE: SOON-B2V8V7D8.
+MODE: MANUAL.
+START WALLET: 1000.
+END WALLET: 1090.0.
+CHO COUNT: 0.
+HAN COUNT: 1.
+WINS: 1.
+LOSES: 0.
+

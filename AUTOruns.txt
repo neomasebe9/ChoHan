@@ -1,0 +1,2726 @@
+
+
+
+__________NEW RUN: MYSTIQUE-I0F5E1D8__________
+Your wallet: 5000
+Your bet: 400.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-11.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-12.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-13.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-14.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-15.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-16.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-17.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-18.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-19.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-20.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+__________END RUN: MYSTIQUE-I0F5E1D8__________
+Your wallet: 4520.0
+
+
+
+
+__________NEW RUN: POTATO-J7W7S2U4__________
+Your wallet: 5000
+Your bet: 400.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 400 mon.
+The House takes 80.0.
+You walk away with 4520.0!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 800 mon.
+The House takes 80.0.
+You walk away with 5720.0!
+
+_________________________
+
+__________END RUN: POTATO-J7W7S2U4__________
+Your wallet: 5720.0
+
+
+
+
+__________NEW RUN: SOON-H1F2I1O4__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+__________END RUN: SOON-H1F2I1O4__________
+Your wallet: 90
+
+
+
+
+__________NEW RUN: LIGHT-Y3C6Q3H7__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+
+
+
+__________NEW RUN: POTATO-M6X5P7R3__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+__________END RUN: POTATO-M6X5P7R3__________
+Your wallet: 110
+
+
+
+
+__________NEW RUN: POTATO-K9N5R2C8__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 130!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 140!
+
+_________________________
+
+__________END RUN: POTATO-K9N5R2C8__________
+Your wallet: 140
+
+
+
+
+__________NEW RUN: LIGHT-T0F0F1M7__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 130!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 140!
+
+_________________________
+
+__________END RUN: LIGHT-T0F0F1M7__________
+Your wallet: 140
+
+
+
+
+__________NEW RUN: SOON-S7E9V5H5__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 140!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 130!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 150!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 170!
+
+_________________________
+
+__________END RUN: SOON-S7E9V5H5__________
+Your wallet: 170
+
+
+
+
+__________NEW RUN: LIGHT-B9Q5M1P4__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 130!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+__________END RUN: LIGHT-B9Q5M1P4__________
+Your wallet: 110
+
+
+
+
+__________NEW RUN: POTATO-M2V0M6J4__________
+__________23 June 2024__________
+Your wallet: 100
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 120!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 100!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+__________END RUN: POTATO-M2V0M6J4__________
+Your wallet: 110
+
+
+
+
+__________NEW RUN: POTATO-J0G6I9O4__________
+__________04 44 PM, 23 June 2024__________
+Your wallet: 50
+Your bet: 20.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 130!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 20 mon.
+The House takes 0.
+You walk away with 110!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 20 mon.
+The House takes 0.
+You walk away with 90!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 130!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 170!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 210!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 20 mon.
+The House takes 0.
+You walk away with 190!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 20 mon.
+The House takes 0.
+You walk away with 170!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 210!
+
+_________________________
+
+_________________________
+
+RUN-11.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 250!
+
+_________________________
+
+_________________________
+
+RUN-12.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 20 mon.
+The House takes 0.
+You walk away with 230!
+
+_________________________
+
+_________________________
+
+RUN-13.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 270!
+
+_________________________
+
+_________________________
+
+RUN-14.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 310!
+
+_________________________
+
+_________________________
+
+RUN-15.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 350!
+
+_________________________
+
+_________________________
+
+RUN-16.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 390!
+
+_________________________
+
+_________________________
+
+RUN-17.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 430!
+
+_________________________
+
+_________________________
+
+RUN-18.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 40 mon.
+The House takes 0.
+You walk away with 470!
+
+_________________________
+
+_________________________
+
+RUN-19.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 20 mon.
+The House takes 0.
+You walk away with 450!
+
+_________________________
+
+_________________________
+
+RUN-20.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 20 mon.
+The House takes 0.
+You walk away with 430!
+
+_________________________
+
+__________END RUN: POTATO-J0G6I9O4__________
+Your wallet: 430
+
+
+
+
+__________NEW RUN: SOON-A8W4E3K2__________
+__________09 59 AM, 28 June 2024__________
+Your wallet: 500
+Your bet: 100.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 400!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 600!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 500!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 700!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 900!
+
+_________________________
+
+__________END RUN: SOON-A8W4E3K2__________
+Your wallet: 900
+
+
+
+
+__________NEW RUN: LIGHT-L2U7Q5P7__________
+__________10 27 AM, 28 June 2024__________
+Your wallet: 400
+Your bet: 100.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 300!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 500!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 700!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 600!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 500!
+
+_________________________
+
+__________END RUN: LIGHT-L2U7Q5P7__________
+Your wallet: 500
+
+
+
+
+__________NEW RUN: MYSTIQUE-S3B0N4C6__________
+__________05 38 AM,  1 July 2024__________
+Your wallet: 400
+Your bet: 10.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 420!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 440!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 460!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 480!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 500!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 490!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 510!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 530!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 20 mon.
+The House takes 0.
+You walk away with 550!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 10 mon.
+The House takes 0.
+You walk away with 540!
+
+_________________________
+
+__________END RUN: MYSTIQUE-S3B0N4C6__________
+Your wallet: 540
+
+
+
+
+__________NEW RUN: LIGHT-Z0D4Q0X3__________
+__________09 55 AM,  1 July 2024__________
+Your wallet: 1000
+Your bet: 100.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 1200!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 1100!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 1000!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 900!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 800!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 1000!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 1200!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 1100!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 1000!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 1200!
+
+_________________________
+
+__________END RUN: LIGHT-Z0D4Q0X3__________
+Your wallet: 1200
+
+
+
+
+__________NEW RUN: MYSTIQUE-Z1R1S2P1__________
+__________10 50 AM,  1 July 2024__________
+Your wallet: 1000
+Your bet: 50.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 950!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1050!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1000!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 950!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 900!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 850!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 950!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 900!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 850!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 800!
+
+_________________________
+
+_________________________
+
+RUN-11.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 900!
+
+_________________________
+
+_________________________
+
+RUN-12.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1000!
+
+_________________________
+
+_________________________
+
+RUN-13.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 950!
+
+_________________________
+
+_________________________
+
+RUN-14.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 900!
+
+_________________________
+
+_________________________
+
+RUN-15.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 850!
+
+_________________________
+
+_________________________
+
+RUN-16.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 950!
+
+_________________________
+
+_________________________
+
+RUN-17.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1050!
+
+_________________________
+
+_________________________
+
+RUN-18.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1000!
+
+_________________________
+
+_________________________
+
+RUN-19.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1100!
+
+_________________________
+
+_________________________
+
+RUN-20.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1050!
+
+_________________________
+
+_________________________
+
+RUN-21.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1150!
+
+_________________________
+
+_________________________
+
+RUN-22.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1100!
+
+_________________________
+
+_________________________
+
+RUN-23.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1050!
+
+_________________________
+
+_________________________
+
+RUN-24.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1150!
+
+_________________________
+
+_________________________
+
+RUN-25.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1250!
+
+_________________________
+
+_________________________
+
+RUN-26.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1200!
+
+_________________________
+
+_________________________
+
+RUN-27.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1150!
+
+_________________________
+
+_________________________
+
+RUN-28.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1250!
+
+_________________________
+
+_________________________
+
+RUN-29.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1350!
+
+_________________________
+
+_________________________
+
+RUN-30.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1450!
+
+_________________________
+
+_________________________
+
+RUN-31.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1400!
+
+_________________________
+
+_________________________
+
+RUN-32.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1500!
+
+_________________________
+
+_________________________
+
+RUN-33.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1600!
+
+_________________________
+
+_________________________
+
+RUN-34.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1550!
+
+_________________________
+
+_________________________
+
+RUN-35.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1650!
+
+_________________________
+
+_________________________
+
+RUN-36.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1600!
+
+_________________________
+
+_________________________
+
+RUN-37.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1700!
+
+_________________________
+
+_________________________
+
+RUN-38.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1800!
+
+_________________________
+
+_________________________
+
+RUN-39.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1900!
+
+_________________________
+
+_________________________
+
+RUN-40.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1850!
+
+_________________________
+
+_________________________
+
+RUN-41.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1800!
+
+_________________________
+
+_________________________
+
+RUN-42.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1900!
+
+_________________________
+
+_________________________
+
+RUN-43.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1850!
+
+_________________________
+
+_________________________
+
+RUN-44.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1800!
+
+_________________________
+
+_________________________
+
+RUN-45.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1900!
+
+_________________________
+
+_________________________
+
+RUN-46.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1850!
+
+_________________________
+
+_________________________
+
+RUN-47.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1800!
+
+_________________________
+
+_________________________
+
+RUN-48.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1750!
+
+_________________________
+
+_________________________
+
+RUN-49.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1850!
+
+_________________________
+
+_________________________
+
+RUN-50.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1800!
+
+_________________________
+
+_________________________
+
+RUN-51.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 1900!
+
+_________________________
+
+_________________________
+
+RUN-52.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 2000!
+
+_________________________
+
+_________________________
+
+RUN-53.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 1950!
+
+_________________________
+
+_________________________
+
+RUN-54.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 2050!
+
+_________________________
+
+_________________________
+
+RUN-55.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 2150!
+
+_________________________
+
+_________________________
+
+RUN-56.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 2250!
+
+_________________________
+
+_________________________
+
+RUN-57.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 50 mon.
+The House takes 0.
+You walk away with 2200!
+
+_________________________
+
+_________________________
+
+RUN-58.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 2300!
+
+_________________________
+
+_________________________
+
+RUN-59.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 2400!
+
+_________________________
+
+_________________________
+
+RUN-60.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 100 mon.
+The House takes 0.
+You walk away with 2500!
+
+_________________________
+
+__________END RUN: MYSTIQUE-Z1R1S2P1__________
+Your wallet: 2500
+
+
+
+
+__________NEW RUN: SOON-I5J3W4D6__________
+__________11 28 AM,  1 July 2024__________
+Your wallet: 500
+Your bet: 40.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 80 mon.
+The House takes 0.
+You walk away with 580!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 40 mon.
+The House takes 0.
+You walk away with 540!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 80 mon.
+The House takes 0.
+You walk away with 620!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 40 mon.
+The House takes 0.
+You walk away with 580!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 40 mon.
+The House takes 0.
+You walk away with 540!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 80 mon.
+The House takes 0.
+You walk away with 620!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 40 mon.
+The House takes 0.
+You walk away with 580!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 80 mon.
+The House takes 0.
+You walk away with 660!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 80 mon.
+The House takes 0.
+You walk away with 740!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 40 mon.
+The House takes 0.
+You walk away with 700!
+
+_________________________
+
+__________END RUN: SOON-I5J3W4D6__________
+Your wallet: 700
+
+
+
+
+__________NEW RUN: POTATO-E2O5O8X9__________
+__________11 29 AM,  1 July 2024__________
+Your wallet: 500
+Your bet: 42.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 42 mon.
+The House takes 0.
+You walk away with 458!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 84 mon.
+The House takes 0.
+You walk away with 542!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 42 mon.
+The House takes 0.
+You walk away with 500!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 84 mon.
+The House takes 0.
+You walk away with 584!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 84 mon.
+The House takes 0.
+You walk away with 668!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 84 mon.
+The House takes 0.
+You walk away with 752!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 84 mon.
+The House takes 0.
+You walk away with 836!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 42 mon.
+The House takes 0.
+You walk away with 794!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 84 mon.
+The House takes 0.
+You walk away with 878!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 42 mon.
+The House takes 0.
+You walk away with 836!
+
+_________________________
+
+__________END RUN: POTATO-E2O5O8X9__________
+Your wallet: 836
+
+
+
+
+__________NEW RUN: SOON-B6X8K8A4__________
+__________11 32 AM,  1 July 2024__________
+Your wallet: 20
+Your bet: 7.
+_________________________
+
+RUN-1.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 7 mon.
+The House takes 0.
+You walk away with 13!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 7 mon.
+The House takes 0.
+You walk away with 6!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 7 mon.
+The House takes 0.
+You walk away with -1!
+
+_________________________
+RUN SOON-B6X8K8A4 ENDED WITH TOTAL LOSS.
+__________END RUN: SOON-B6X8K8A4__________
+Your wallet: -1
+
+
+
+
+__________NEW RUN: POTATO-S1K7T8K9__________
+__________01 28 PM,  8 March 2025__________
+Your wallet: 2000
+Your bet: 200.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 400 mon.
+The House takes 0.
+You walk away with 2400!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 400 mon.
+The House takes 0.
+You walk away with 2800!
+
+_________________________
+
+_________________________
+
+RUN-3.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 400 mon.
+The House takes 0.
+You walk away with 3200!
+
+_________________________
+
+_________________________
+
+RUN-4.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 400 mon.
+The House takes 0.
+You walk away with 3600!
+
+_________________________
+
+_________________________
+
+RUN-5.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 400 mon.
+The House takes 0.
+You walk away with 4000!
+
+_________________________
+
+_________________________
+
+RUN-6.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 3800!
+
+_________________________
+
+_________________________
+
+RUN-7.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 3600!
+
+_________________________
+
+_________________________
+
+RUN-8.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 3400!
+
+_________________________
+
+_________________________
+
+RUN-9.
+Roll = Odd.
+Guess = HAN.
+
+You have WON! You take 400 mon.
+The House takes 0.
+You walk away with 3800!
+
+_________________________
+
+_________________________
+
+RUN-10.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 3600!
+
+_________________________
+
+_________________________
+
+RUN-11.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 3400!
+
+_________________________
+
+_________________________
+
+RUN-12.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 3200!
+
+_________________________
+
+_________________________
+
+RUN-13.
+Roll = Odd.
+Guess = CHO.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 3000!
+
+_________________________
+
+_________________________
+
+RUN-14.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 200 mon.
+The House takes 0.
+You walk away with 2800!
+
+_________________________
+
+__________END RUN: POTATO-S1K7T8K9__________
+Your wallet: 2800
+
+
+
+
+__________NEW RUN: MYSTIQUE-R3L5B3T9__________
+__________06 06 PM, 13 April 2026__________
+Your wallet: 1000
+Your bet: 100.
+_________________________
+
+RUN-1.
+Roll = Even.
+Guess = HAN.
+
+You have LOST! You lose 100 mon.
+The House takes 0.
+You walk away with 900!
+
+_________________________
+
+_________________________
+
+RUN-2.
+Roll = Even.
+Guess = CHO.
+
+You have WON! You take 200 mon.
+The House takes 0.
+You walk away with 1100!
+
+_________________________
+
+__________END RUN: MYSTIQUE-R3L5B3T9__________
+Your wallet: 1100
+
+__________MYSTIQUE-R3L5B3T9__________
+__________06 06 PM, 13 April 2026__________
+BET-CODE: MYSTIQUE-R3L5B3T9.
+MODE: AUTO.
+PLAYS: 2.
+START WALLET: 1000.
+END WALLET: 1100.
+CHO COUNT: 2.
+HAN COUNT: 0.
+WINS: 1.
+LOSES: 1.
+
